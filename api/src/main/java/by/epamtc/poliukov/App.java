@@ -1,9 +1,9 @@
 package by.epamtc.poliukov;
 
-
 public class App {
     public static void main(String[] args) {
 
-      //Utils.isAllPositiveNumber();
+      boolean result = Utils.isAllPositiveNumbers("12", "79");
+        System.out.println(result);
     }
 }

@@ -1,3 +1,5 @@
+package by.epamtc.poliukov;
+
 import demolib.StringUtils;
 
 public class Utils {
